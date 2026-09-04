@@ -50,6 +50,3 @@ AGENTS.md 把规范固化成「每次进入目录自动加载的行为指南」�
 
 [examples/](examples/) 展示按本模板写作产出的笔记形态，可作为验收 agent 输出是否合规的参照。
 
-## 许可证
-
-开源协议由你自行选择（个人项目常用 MIT，参考 [choosealicense.com](https://choosealicense.com)）。
